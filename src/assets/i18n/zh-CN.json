@@ -103,12 +103,12 @@
 	},
 	"creator_profile_details": {
 		"are_you_on_twitter_0": "你是",
-		"are_you_on_twitter_1": "在推特上声明个人资料：",
+		"are_you_on_twitter_1": "在推特上认领个人资料：",
 		"coins_in_circulation": "流通中的代币",
 		"create_new_key": "创建一个新的DeSo公钥",
 		"not_joined_yet": "还没有加入DeSo",
 		"profile_reserved": "个人资料已保存",
-		"public_key_note": "注意：您推文的公钥将与当前与此配置文件关联的公钥交换。这也将交换所有的创作者硬币持有量。如果您不希望它们丢失，请确保您推文的公钥没有任何创建者硬币。",
+		"public_key_note": "注意：您推文的公钥将与当前个人资料关联的公钥交换，账号所持的创作者币都将交换，请确保您推文的公钥没有任何创作者币，以防丢失。",
 		"total_usd_locked": "锁仓资金",
 		"tweet_key": "在推特上发布您的DeSo公钥并标记 #deso。",
 		"unblock_0": "解锁",
@@ -184,8 +184,8 @@
 	},
 	"direct_to_browser_modal": {
 		"select_browser": "3. 选择浏览器",
-		"select_openwith": "2. 选择 <b>用</b>打开",
-		"select_safari": "2. 选择 <b>在 Safari 中打开</b>",
+		"select_openwith": "2. 选择用浏览器打开",
+		"select_safari": "2. 选择在Safari 中打开",
 		"tap_ellipsis": "1.点击省略号"
 	},
 	"feed": {
@@ -205,7 +205,7 @@
 			"searchclout": "热搜",
 			"showcase": "NFT展厅"
 		},
-		"usd_coin": "每枚硬币美元",
+		"usd_coin": "币兑USD",
 		"you_have_referral_0": "不限制你的",
 		"you_have_referral_1": "推荐链接"
 	},
@@ -215,24 +215,24 @@
 		"embed_video": "插入Youtube、Vimeo、TikTok、Giphy、Spotify或SoundCloud音视频",
 		"post": "发布",
 		"quotes": {
-			"quote1": "来吧，让我的一天。",
-			"quote10": "如果你盖了，他们会来的。",
-			"quote11": "道路？我们要去的地方不需要道路",
-			"quote12": "超越无限！",
-			"quote13": "愿原力与你同在",
-			"quote14": "我有一种感觉，我们已经不在堪萨斯了",
-			"quote15": "E.T.打电话回家",
-			"quote16": "小学，我亲爱的华生",
-			"quote17": "我要给他一个他无法拒绝的提议。",
-			"quote18": "大事有小开端。",
-			"quote2": "做梦的东西。",
-			"quote3": "成功了，妈！世界之巅！",
-			"quote4": "我会回来的。",
-			"quote5": "打开舱门，哈尔。",
-			"quote6": "谁先上。",
-			"quote7": "第二个是什么。",
-			"quote8": "我觉得需要——需要速度！",
-			"quote9": "我是世界之王！"
+			"quote1": "你努力走过的路,每一步都算数。",
+			"quote10": "一直向前奔跑,也许会有不一样的人生！",
+			"quote11": "世上本没有路，走的人多了也便成了路。",
+			"quote12": "让一部分人先看到未来！",
+			"quote13": "相信相信的力量！",
+			"quote14": "经历了人生百态世间的冷暖，这笑容温暖纯真！",
+			"quote15": "贾君鹏你妈妈喊你回家吃饭。",
+			"quote16": "真正的英雄,是那些看清了生活的真相却依然热爱生活的人。",
+			"quote17": "不如一路向西去大理。",
+			"quote18": "生活不止眼前的苟且，还有诗和远方的田野！",
+			"quote2": "天青色等烟雨，而我在等你。",
+			"quote3": "谁的头顶上没有灰尘！",
+			"quote4": "我一定会回来的。",
+			"quote5": "不怕万人阻挡，只怕自己投降。",
+			"quote6": "我遇见你，是最美丽的意外。",
+			"quote7": "时间已过去多少年，如今的你们在哪里。",
+			"quote8": "没有什么能够阻挡，我对自由地向往。",
+			"quote9": "我用力的挥动翅膀，开始寻找家的方向"
 		},
 		"uploading": "上传中：",
 		"video_processing": "视频处理中"
@@ -244,7 +244,7 @@
 		"diamond": "钻石",
 		"for_sale": "待售",
 		"from": "从",
-		"hide_unlockable": "隐藏可解锁",
+		"hide_unlockable": "隐藏可解锁的",
 		"in_hot_feed": "热门",
 		"last_price": "成交",
 		"like": "赞",
@@ -313,7 +313,7 @@
 		"hide_banner_message": "你想隐藏免费的横幅吗？",
 		"no": "不",
 		"robot_check_failed": "机器人排查失败。单击此处重试。",
-		"will_arive_in_a_minute": "大约一分钟后到达。",
+		"will_arive_in_a_minute": "大约一分钟后成功。",
 		"yes": "好",
 		"your_free": "您的自由"
 	},
@@ -434,7 +434,7 @@
 		"referred_users_click_to_hide": "推荐用户（点击这里隐藏）：",
 		"referree_amount": "推荐人金额",
 		"referrer_amount": "被推荐人金额",
-		"requires_jumio": "需要 Jumio",
+		"requires_jumio": "需要Jumio",
 		"update_link_btn": "更新链接",
 		"update_link_btn_loading": "正在更新...",
 		"upload_csv_btn": "上传CSV",
@@ -525,7 +525,7 @@
 		"next": "下一步",
 		"phone_verified": "您的电话号码已通过验证，我们向您发送了少量DeSo，马上去感受去中心化社交网络的魅力。",
 		"skip": "跳过",
-		"stay_in_the_loop": "留在循环中",
+		"stay_in_the_loop": "继续",
 		"step": "步",
 		"use_deso": "您可以使用$DESO兑换创作者币、打赏、购买NFT等等。"
 	},
@@ -639,7 +639,7 @@
 		"create_a_profile_cost": "创建个人资料话费",
 		"create_profile": {
 			"create_your_profile": "创建你的个人资料",
-			"select_a_profile_picture": "选择个人资料图片、用户名、简介，完成后，点击“更新个人资料”保存。",
+			"select_a_profile_picture": "选择个人资料图片、用户名、简介，完成后，点击“更新个人资料”并保存。",
 			"step": "步"
 		},
 		"create_profile_message": {
@@ -663,39 +663,39 @@
 		"show_price_in_feed": "在纲要中显示价格",
 		"theme": "主题",
 		"this_helps_prevent_spam": "这有助于防止垃圾邮件。",
-		"tutorial_instructions": "选择个人资料图片，选择用户名，如果您觉得富有诗意，请写下您的个人资料描述。<br /><br />完成后， <b>点击“更新个人资料”</b> 以继续。",
-		"update_profile": "更新配置文件",
+		"tutorial_instructions": "选择个人资料图片、用户名、简介，完成后，点击“更新个人资料”并保存。",
+		"update_profile": "更新个人档案",
 		"upload_image": "上传图片",
-		"usd_of_deso": "DESO 美元",
+		"usd_of_deso": "DESO兑USD",
 		"username": "用户名",
-		"you_must_purchase_own_coin": "在降低创始人奖励之前，您必须购买自己的硬币。"
+		"you_must_purchase_own_coin": "在降低创始人奖励之前，您必须购买自己的代币。"
 	},
 	"verify_email": {
 		"email_verified_successfully": "邮箱验证成功",
-		"failed_to_verify": "无法验证电子邮件："
+		"failed_to_verify": "无法验证邮箱："
 	},
 	"wallet": {
 		"buy": "购买",
 		"buy_creator_coins": "购买创作者币",
-		"buy_deso": "购买 $DESO",
-		"claim_your_free": "索取您的免费",
-		"coins_purchased": "购买的硬币",
-		"coins_received": "收到的硬币",
-		"sell": "卖",
+		"buy_deso": "购买$DESO",
+		"claim_your_free": "免费认领",
+		"coins_purchased": "购买的币",
+		"coins_received": "收到的币",
+		"sell": "出售",
 		"send": "发送",
-		"send_deso": "发送 $DESO",
+		"send_deso": "发送$DESO",
 		"total_balance": "总余额",
 		"tutorial_header_text": {
-			"invest_in_yourself": "投资于自己",
+			"invest_in_yourself": "投资自己",
 			"sell_a_creator": "出售创作者",
-			"skip": "跳跃",
+			"skip": "跳过",
 			"step": "步"
 		}
 	},
 	"wallet_widget": {
-		"coins_in_circulation": "流通中的硬币",
-		"total_usd_locked": "总美元锁定",
-		"usd_market_cap": "美元市值",
+		"coins_in_circulation": "流通量",
+		"total_usd_locked": "锁仓资金",
+		"usd_market_cap": "流通市值",
 		"wallet_of": "钱包"
 	}
 }
