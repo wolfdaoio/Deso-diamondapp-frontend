@@ -241,7 +241,7 @@
 		"accept_transfer": "收款",
 		"adding": "添加...",
 		"buy": "购买",
-		"diamond": "钻石",
+		"diamond": "钻",
 		"for_sale": "待售",
 		"from": "从",
 		"hide_unlockable": "隐藏可解锁的",
@@ -252,7 +252,7 @@
 		"of": "的",
 		"original_removed": "原帖已被作者删除。",
 		"place_a_bid": "出价",
-		"quote_repost": "转评",
+		"quote_repost": "转发并评论",
 		"removed_by_author": "该贴已被作者删除。",
 		"removing": "正在删除...",
 		"replying_to": "回复",
@@ -372,18 +372,18 @@
 			"all": "全部",
 			"cancel": "取消",
 			"creator_coin": "创作者币",
-			"diamonds": "钻石",
+			"diamonds": "打赏",
 			"expanded": "展开",
 			"follows": "关注",
 			"likes": "赞",
-			"mentions_replies_reposts": "提及/回复/转发",
+			"mentions_replies_reposts": "提及/评论/转发",
 			"nft": "NFT",
-			"notification_settings": "通知设定",
+			"notification_settings": "通知设置",
 			"only_show": "只显示",
 			"select_all": "全选",
 			"select_none": "不选",
 			"update": "更新",
-			"view": "查看"
+			"view": "显示方式"
 		},
 		"list": {
 			"no_notifications": "没有新的通知",
@@ -393,8 +393,8 @@
 	},
 	"place_bid": {
 		"buy_deso": "购买 DESO",
-		"coinholder_royalty": "持币者版税",
-		"creator_royalty": "创作者版税",
+		"coinholder_royalty": "持币者分成",
+		"creator_royalty": "创作者分成",
 		"highest_bid": "最高价",
 		"min_bid_amount": "起拍价",
 		"multiple_editions": "NFT可以有多个版本，每个版本都有自己唯一的序列号。",
@@ -410,7 +410,7 @@
 		"post": "发布"
 	},
 	"quote_reposts": {
-		"quote_reposts": "评论转发"
+		"quote_reposts": "转发并评论"
 	},
 	"referral_program": {
 		"create_link_btn": "创建新链接",
@@ -423,10 +423,10 @@
 		"download_csv_with_links": "下载包含所有推荐链接的 CSV：",
 		"download_info_btn": "下载资料",
 		"download_info_btn_loading": "正在下载...",
-		"enter_user_to_modify": "输入用户修改其推荐链接",
+		"enter_user_to_modify": "查找用户修改其推荐链接",
 		"existing_links": "已有推荐链接：",
 		"is_active": "活跃",
-		"max_referrals": "最大推荐人",
+		"max_referrals": "最大推荐数",
 		"no_existing_links": "未找到推荐链接。",
 		"paid_to_referee": "支付给推荐人",
 		"paid_to_referrals": "支付给被推荐人",
@@ -452,10 +452,10 @@
 		"refs_remaining": "待处理推荐人：",
 		"total_collected": "总收集：",
 		"total_given": "总给出：",
-		"unlimited": "无限",
-		"you_get_per_referral_0": "你得到",
-		"you_get_per_referral_1": "每次推荐获得美元",
-		"your_referrals_get_0": "您的推荐人获得",
+		"unlimited": "不限制",
+		"you_get_per_referral_0": "你将或得",
+		"you_get_per_referral_1": "每推荐成功",
+		"your_referrals_get_0": "您的推荐人将获得",
 		"your_referrals_get_1": "美元"
 	},
 	"reposts": {
@@ -473,9 +473,9 @@
 			"sent": "发送",
 			"top_community_projects": "项目榜",
 			"top_creators_alltime": "创作者榜",
-			"top_daily_diamond_creators": "打赏收益榜",
-			"top_daily_gainers": "代币收益榜",
-			"update_your_email": "更新电子邮件",
+			"top_daily_diamond_creators": "打赏榜",
+			"top_daily_gainers": "收益榜",
+			"update_your_email": "更新邮箱",
 			"your_deso": "你的$DESO"
 		},
 		"signup": {
@@ -495,18 +495,18 @@
 		"and": "和",
 		"are_you_sure": "您确定吗？",
 		"back_to_nft": "返回NFT",
-		"coinholder_royalty": "持币人版税",
-		"creator_royalty": "创作者版税",
+		"coinholder_royalty": "持币人分成",
+		"creator_royalty": "创作者分成",
 		"ernings": "收益",
 		"number": "数",
-		"select_one_bid": "您必须选择一个出价才能出售此NFT。",
+		"select_one_bid": "您必须设定一个出价才能出售此NFT。",
 		"sell_an_nft": "出售NFT",
-		"sell_nfts": "出售NFT",
+		"sell_nfts": "出售NFTs",
 		"selling_price": "售价",
-		"selling_ntfs": "出售的NFT"
+		"selling_ntfs": "出售中的NFTs"
 	},
 	"settings": {
-		"deso_theme": "deso主题",
+		"deso_theme": "主题",
 		"email": "邮箱",
 		"enter_email": "输入邮箱地址。",
 		"enter_valid_email": "请输入有效的邮箱地址。",
@@ -538,9 +538,9 @@
 		"all_bids": "全部出价",
 		"my_Auction": "我的竞拍",
 		"my_Bids": "我的出价",
-		"new": "最新的",
+		"new": "新的",
 		"owners": "所有者",
-		"thread": "相似的"
+		"thread": "系列"
 	},
 	"top_bar": {
 		"mobile": {
@@ -550,11 +550,11 @@
 	},
 	"trade-creator": {
 		"amount": "金额",
-		"amount_less_than_balance": "金额加费用必须小于您的余额",
-		"amount_must_be_greater_0": "金额必须大于",
-		"amount_must_be_greater_1": "（支付费用）",
-		"amount_must_be_less_0": "金额必须小于",
-		"amount_must_be_less_1": "（扣除费用后的余额）",
+		"amount_less_than_balance": "购买金额加费用必须小于您的余额",
+		"amount_must_be_greater_0": "购买金额必须大于",
+		"amount_must_be_greater_1": "支付费用",
+		"amount_must_be_less_0": "购买金额必须小于",
+		"amount_must_be_less_1": "扣除费用后的余额",
 		"amount_must_be_number": "金额只能是数字和小数",
 		"amount_required": "金额为必填项",
 		"available": "可用的",
@@ -562,7 +562,7 @@
 		"buy_DESO": "购买DESO",
 		"cancel": "取消",
 		"coin": "代币",
-		"coin_price": "代币价格",
+		"coin_price": "币价",
 		"confirm": "确认",
 		"confirm_operation": "确认操作",
 		"create_account": "创建一个账号",
@@ -580,7 +580,7 @@
 		"price_changed_while_waiting": "在您提交购买时价格发生了变化，请再次确认您的购买。",
 		"price_per_coin": "币价",
 		"recipient": "接收者",
-		"review": "审核",
+		"review": "复核",
 		"to": "至",
 		"usd": "usd",
 		"user_not_found_0": "用户名",
@@ -596,13 +596,13 @@
 	"transfer_deso": {
 		"amount_to_send": "发送金额",
 		"cancel": "取消",
-		"deso_network_fee": "DESO网络费",
+		"deso_network_fee": "DESO 网络费",
 		"enter_public_key": "在下面输入公钥，其它交给协议处理",
 		"max": "全部",
 		"public_key": "支付的公钥或用户名",
 		"scan_qr_code": "扫描二维码发送",
 		"send_deso": "发送$DESO",
-		"total": "总共",
+		"total": "总计",
 		"working": "工作中..."
 	},
 	"transfer_nft": {
@@ -621,7 +621,7 @@
 		"nft_includes_unlockables": "此NFT包括可解锁的内容，在下面输入它。",
 		"no_serials_to_accept": "您接受的序列号不存在。",
 		"no_serials_transferable": "您转让的序列号不存在。",
-		"number": "数目",
+		"number": "数量",
 		"search_pubkey_user": "查找您要转让NFT的公钥或用户名",
 		"select_edition": "选择一个版本",
 		"serials_transferable": "可供转让的序列号",
@@ -636,7 +636,7 @@
 		"avatar": "头像",
 		"characters": "简介",
 		"create_a_profile": "创建个人资料",
-		"create_a_profile_cost": "创建个人资料话费",
+		"create_a_profile_cost": "创建个人资料将花费",
 		"create_profile": {
 			"create_your_profile": "创建你的个人资料",
 			"select_a_profile_picture": "选择个人资料图片、用户名、简介，完成后，点击“更新个人资料”并保存。",
@@ -660,15 +660,15 @@
 		"please_set_founder": "设置创始人奖励0-100。",
 		"please_set_username": "设置用户名",
 		"purchase": "购买",
-		"show_price_in_feed": "在纲要中显示价格",
+		"show_price_in_feed": "在帖子中显示价格",
 		"theme": "主题",
 		"this_helps_prevent_spam": "这有助于防止垃圾邮件。",
 		"tutorial_instructions": "选择个人资料图片、用户名、简介，完成后，点击“更新个人资料”并保存。",
-		"update_profile": "更新个人档案",
+		"update_profile": "更新个人资料",
 		"upload_image": "上传图片",
 		"usd_of_deso": "DESO兑USD",
 		"username": "用户名",
-		"you_must_purchase_own_coin": "在降低创始人奖励之前，您必须购买自己的代币。"
+		"you_must_purchase_own_coin": "在降低创始人奖励之前，您最好购买自己的代币。"
 	},
 	"verify_email": {
 		"email_verified_successfully": "邮箱验证成功",
@@ -676,10 +676,10 @@
 	},
 	"wallet": {
 		"buy": "购买",
-		"buy_creator_coins": "购买创作者币",
+		"buy_creator_coins": "投资创作者",
 		"buy_deso": "购买$DESO",
 		"claim_your_free": "免费认领",
-		"coins_purchased": "购买的币",
+		"coins_purchased": "买到的币",
 		"coins_received": "收到的币",
 		"sell": "出售",
 		"send": "发送",
@@ -696,6 +696,6 @@
 		"coins_in_circulation": "流通量",
 		"total_usd_locked": "锁仓资金",
 		"usd_market_cap": "流通市值",
-		"wallet_of": "钱包"
+		"wallet_of": "我的代币"
 	}
 }
