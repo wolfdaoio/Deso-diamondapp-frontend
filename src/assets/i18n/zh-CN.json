@@ -135,7 +135,7 @@
 		"cancel": "取消",
 		"for_sale": "待售",
 		"gallery": "展厅",
-		"highest": "最高！",
+		"highest": "最高",
 		"my_bids": "我的出价",
 		"no_bids": "还没出价。",
 		"no_bids_yet": "已上架，但尚未开拍的NFT。",
@@ -179,8 +179,8 @@
 		"price": "价格"
 	},
 	"diamonds_pages": {
-		"diamonds_from": "打赏收入",
-		"diamonds_given_by": "打赏"
+		"diamonds_from": "打赏来自",
+		"diamonds_given_by": "打赏给"
 	},
 	"direct_to_browser_modal": {
 		"select_browser": "3. 选择浏览器",
@@ -267,7 +267,7 @@
 		"who_you_have_blocked": "你屏蔽了谁，单击此处访问他们的个人资料以取消屏蔽。"
 	},
 	"feed_post_dropdown": {
-		"add_multiplier": "添加权重",
+		"add_multiplier": "增加权重",
 		"add_nft_to_drop": "添加NFT发送",
 		"add_to_feed": "推荐",
 		"block_user": "屏蔽用户",
@@ -309,21 +309,21 @@
 	},
 	"jumio_status": {
 		"click_here_to_get": "点击这里",
-		"hide_banner": "隐藏横幅",
-		"hide_banner_message": "你想隐藏免费的横幅吗？",
+		"hide_banner": "隐藏该横幅",
+		"hide_banner_message": "你想隐藏免费获取$DESO的横幅信息吗？",
 		"no": "不",
 		"robot_check_failed": "机器人验证失败，单击此处重试。",
-		"will_arive_in_a_minute": "立即验证？",
-		"yes": "好",
+		"will_arive_in_a_minute": "一分钟内完成",
+		"yes": "是",
 		"your_free": "免费获取"
 	},
 	"landing": {
 		"diamonds": "获得钻石并以前所未有的方式投资创作者。你的下一篇文章可能价值百万！",
 		"fora": "专题",
 		"login": "登录",
-		"settle": "解决",
+		"settle": "入驻",
 		"signup": "注册",
-		"signuptoday": "今天注册"
+		"signuptoday": "立即注册"
 	},
 	"left_bar": {
 		"admin": "管理员",
@@ -399,7 +399,7 @@
 		"min_bid_amount": "起拍价",
 		"multiple_editions": "NFT可以有多个版本，每个版本都有自己唯一的序列号。",
 		"no_serial_available": "没有可供您出价的序列号。",
-		"number": "数",
+		"number": "数量",
 		"place_a_bid": "出价",
 		"place_bid": "您将为以下机构拍卖的NFT出价",
 		"placing_bid": "出价",
@@ -432,8 +432,8 @@
 		"paid_to_referrals": "支付给被推荐人",
 		"pubkey_or_user": "公钥或用户名：",
 		"referred_users_click_to_hide": "推荐用户（点击这里隐藏）：",
-		"referree_amount": "推荐人金额",
-		"referrer_amount": "被推荐人金额",
+		"referree_amount": "推荐人奖励金额",
+		"referrer_amount": "被推荐人奖励金额",
 		"requires_jumio": "需要Jumio",
 		"update_link_btn": "更新链接",
 		"update_link_btn_loading": "正在更新...",
@@ -445,8 +445,8 @@
 		"copied": "复制",
 		"deso": "deso",
 		"link_not_active": "链接已失效。",
-		"link_plural": "链接",
-		"link_singular": "链接",
+		"link_plural": "多个链接",
+		"link_singular": "单个链接",
 		"my_referrals": "我的推荐",
 		"referrals_explain": "下面为您和您的推荐人提供注册奖金。请注意，所有奖金均以美元显示，但在注册时以DESO等值支付。",
 		"refs_remaining": "待处理推荐人：",
@@ -498,7 +498,7 @@
 		"coinholder_royalty": "持币人分成",
 		"creator_royalty": "创作者分成",
 		"ernings": "收益",
-		"number": "数",
+		"number": "数量",
 		"select_one_bid": "您必须设定一个出价才能出售此NFT。",
 		"sell_an_nft": "出售NFT",
 		"sell_nfts": "出售NFTs",
