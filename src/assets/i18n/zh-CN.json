@@ -14,7 +14,7 @@
 	},
 	"bid_placed_modal": {
 		"bid_successful": "您已成功出价，我们会在拍卖结束时通知您。",
-		"explore_showcase": "探索展示"
+		"explore_showcase": "浏览作品"
 	},
 	"bottom_bar_mobile": {
 		"home": "首页",
@@ -319,9 +319,9 @@
 	},
 	"landing": {
 		"diamonds": "获得钻石并以前所未有的方式投资创作者。你的下一篇文章可能价值百万！",
-		"fora": "专题",
+		"fora": "论坛",
 		"login": "登录",
-		"settle": "入驻",
+		"settle": "满足于",
 		"signup": "注册",
 		"signuptoday": "立即注册"
 	},
